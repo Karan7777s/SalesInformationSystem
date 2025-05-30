@@ -1,0 +1,42 @@
+﻿@model IEnumerable<SalesInformationSystem.Models.Quotation>
+
+@{
+    ViewData["Title"] = "GetCustQuotations";
+}
+
+<h1>GetCustQuotations</h1>
+<p>Cutomer Id: @ViewBag.custId</p>
+<p>Customer Name: @ViewBag.custName</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.QuotationId)
+           </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ExpiryDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TotalAmount)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.QuotationId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ExpiryDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalAmount)
+            </td>
+
+           
+                
+        </tr>
+}
+    </tbody>
+</table>
