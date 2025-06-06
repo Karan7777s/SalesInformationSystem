@@ -12,8 +12,8 @@ using Microsoft.AspNetCore.Authorization;
 namespace SalesInformationSystem.Controllers
 {
 
-    [Authorize(Roles ="SuperAdmin")]
-   
+    [Authorize(Roles = "SuperAdmin")]
+
     public class RolesAdminController : Controller
     {
         private readonly ApplicationDbContext _context;
