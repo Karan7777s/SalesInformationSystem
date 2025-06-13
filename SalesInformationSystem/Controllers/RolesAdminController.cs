@@ -12,7 +12,7 @@ using Microsoft.AspNetCore.Authorization;
 namespace SalesInformationSystem.Controllers
 {
 
-    [Authorize(Roles = "SuperAdmin")]
+    
 
     public class RolesAdminController : Controller
     {

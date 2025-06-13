@@ -299,6 +299,9 @@ namespace SalesInformationSystem.Data.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("InvoiceId"));
 
+                    b.Property<int>("CustomerId")
+                        .HasColumnType("int");
+
                     b.Property<DateOnly>("InvoiceDate")
                         .HasColumnType("date");
 
@@ -306,6 +309,8 @@ namespace SalesInformationSystem.Data.Migrations
                         .HasColumnType("float");
 
                     b.HasKey("InvoiceId");
+
+                    b.HasIndex("CustomerId");
 
                     b.ToTable("Invoice");
                 });
@@ -523,6 +528,17 @@ namespace SalesInformationSystem.Data.Migrations
                         .IsRequired();
 
                     b.Navigation("Product");
+                });
+
+            modelBuilder.Entity("SalesInformationSystem.Models.Invoice", b =>
+                {
+                    b.HasOne("SalesInformationSystem.Models.Customer", "Customer")
+                        .WithMany()
+                        .HasForeignKey("CustomerId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Customer");
                 });
 
             modelBuilder.Entity("SalesInformationSystem.Models.Payment", b =>

@@ -13,5 +13,6 @@ namespace SalesInformationSystem.Models
         public string Phone { get; set; }
 
         public ICollection<Quotation> Quotation { get; set; }
+        public ICollection<Invoice> Invoice { get; set; }
     }
 }

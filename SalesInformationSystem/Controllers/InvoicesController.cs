@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -19,6 +20,14 @@ namespace SalesInformationSystem.Controllers
             _context = context;
         }
 
+        [Authorize(Roles ="Customer")]
+        //public async Task<IActionResult> MyInvoices()
+        //{
+        //    var username = User.Identity.Name;
+        //    var getCustId = _context.Customer.Where(c => c.Email == username).FirstOrDefault().CustomerId;
+        //    var getInvoices = _context.Invoice.Where(i => i.CustomerId == getCustId).ToList();
+        //    return View(getInvoices);
+        //}
         // GET: Invoices
         public async Task<IActionResult> Index()
         {
@@ -54,7 +63,7 @@ namespace SalesInformationSystem.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("InvoiceId,InvoiceDate,PaymentStatus")] Invoice invoice)
+        public async Task<IActionResult> Create([Bind("InvoiceId,InvoiceDate,PaymentStatus, CustomerId")] Invoice invoice)
         {
            // if (ModelState.IsValid)
           //  {
@@ -86,7 +95,7 @@ namespace SalesInformationSystem.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("InvoiceId,InvoiceDate,PaymentStatus")] Invoice invoice)
+        public async Task<IActionResult> Edit(int id, [Bind("InvoiceId,InvoiceDate,PaymentStatus, CustomerId")] Invoice invoice)
         {
             if (id != invoice.InvoiceId)
             {

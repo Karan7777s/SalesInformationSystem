@@ -8,14 +8,14 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using SalesInformationSystem.Data;
+using SalesInformationSystem.Data;  
 using SalesInformationSystem.Models;
 
 
 namespace SalesInformationSystem.Controllers
 {
 
-    [Authorize("Customer")]
+    //[Authorize("Customer")]
     public class ShoppingCartItemsController : Controller
     {
         public string ShoppingCartId { get; set; }
@@ -24,7 +24,7 @@ namespace SalesInformationSystem.Controllers
         private readonly ApplicationDbContext _context;
 
 
-        public ShoppingCartItemsController(ApplicationDbContext context)
+        public ShoppingCartItemsController (ApplicationDbContext context)
         {
             this.ShoppingCartId = "";
             _context = context;

@@ -77,6 +77,7 @@ namespace SalesInformationSystem.Controllers
         }
 
         // GET: Customers/Create
+        [HttpGet]
         public IActionResult Create()
         {
             return View();
@@ -90,7 +91,9 @@ namespace SalesInformationSystem.Controllers
         public async Task<IActionResult> Create([Bind("CustomerId,CustLname,CustFname,Email,Address,Phone")] Customer customer)
         {
          
-                _context.Add(customer);
+            _context.Add(customer);
+            await _context.SaveChangesAsync();
+
             var custUserId = _context.Users.Where(u => u.Email == customer.Email).FirstOrDefault().Id;
             var custRoleId = _context.Roles.Where(r => r.Name == "Customer").FirstOrDefault().Id;
             var roleName = _context.Roles.Where(r => r.Name == "Customer").FirstOrDefault().Name;

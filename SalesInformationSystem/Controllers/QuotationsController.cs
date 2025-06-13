@@ -43,7 +43,6 @@ namespace SalesInformationSystem.Controllers
         //        (q => q.CustomerId == custId).ToListAsync());
         //}
 
-
         public async Task<IActionResult> Index()
         {
             var applicationDbContext = _context.Quotation.Include(q => q.Customer);

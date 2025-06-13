@@ -37,9 +37,12 @@ else
 }
 
 app.UseHttpsRedirection();
+
 app.UseStaticFiles();
 
 app.UseRouting();
+
+app.UseSession();
 
 app.UseAuthorization();
 
@@ -49,4 +52,4 @@ app.MapControllerRoute(
 app.MapRazorPages();
 
 app.Run();
-app.UseSession();
+
