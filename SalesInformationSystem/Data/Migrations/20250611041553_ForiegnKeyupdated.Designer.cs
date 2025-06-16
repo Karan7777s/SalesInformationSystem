@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using SalesInformationSystem.Data;
 
@@ -11,9 +12,11 @@ using SalesInformationSystem.Data;
 namespace SalesInformationSystem.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250611041553_ForiegnKeyupdated")]
+    partial class ForiegnKeyupdated
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -533,7 +536,7 @@ namespace SalesInformationSystem.Data.Migrations
             modelBuilder.Entity("SalesInformationSystem.Models.Invoice", b =>
                 {
                     b.HasOne("SalesInformationSystem.Models.Customer", "Customer")
-                        .WithMany("Invoice")
+                        .WithMany()
                         .HasForeignKey("CustomerId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -603,8 +606,6 @@ namespace SalesInformationSystem.Data.Migrations
 
             modelBuilder.Entity("SalesInformationSystem.Models.Customer", b =>
                 {
-                    b.Navigation("Invoice");
-
                     b.Navigation("Quotation");
                 });
 

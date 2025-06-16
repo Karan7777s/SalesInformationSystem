@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bushe0Uy8mpJa+NXJhHm70ea4J/hggEKKDQ2p0p5eRE=",
+  "Hash": "hjCsHs1hrGPAXzpe97f6Lne5mP7PDKYJrPJ6cYtC/FU=",
   "Source": "SalesInformationSystem",
   "BasePath": "_content/SalesInformationSystem",
   "Mode": "Default",
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "uf9919l8bb",
-      "Integrity": "Ck1FC9nuwFt2VLixkfEaIfvoPmEzJWwGAuhORJ0FhFg=",
+      "Fingerprint": "hubh1e8j0d",
+      "Integrity": "OS+GH/UpF/V2xeTJElAr9Ny4F6gEgWpb4WK11fHL3Y0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Audia8l.jpg"
@@ -1459,8 +1459,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "kfkps9iwmc",
-      "Integrity": "sLOMGJT4PZVNETE+zY3JMLXvrMHEd5t0Z0lvunXCT1I=",
+      "Fingerprint": "l08zzrkx2h",
+      "Integrity": "qx19RNJaqWaxW4xNSE8UOZzqLmF6zyhb/T+3agPNEHo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\ext.jpg"
@@ -5343,6 +5343,51 @@
       ]
     },
     {
+      "Route": "Images/Audia8l.hubh1e8j0d.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\Audia8l.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OS+GH/UpF/V2xeTJElAr9Ny4F6gEgWpb4WK11fHL3Y0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Jun 2025 02:37:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hubh1e8j0d"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Audia8l.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OS+GH/UpF/V2xeTJElAr9Ny4F6gEgWpb4WK11fHL3Y0="
+        }
+      ]
+    },
+    {
       "Route": "Images/Audia8l.jpg",
       "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\Audia8l.jpg",
       "Selectors": [],
@@ -5353,7 +5398,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "41266"
+          "Value": "82658"
         },
         {
           "Name": "Content-Type",
@@ -5361,11 +5406,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ck1FC9nuwFt2VLixkfEaIfvoPmEzJWwGAuhORJ0FhFg=\""
+          "Value": "\"OS+GH/UpF/V2xeTJElAr9Ny4F6gEgWpb4WK11fHL3Y0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 04:15:18 GMT"
+          "Value": "Mon, 16 Jun 2025 02:37:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5375,52 +5420,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ck1FC9nuwFt2VLixkfEaIfvoPmEzJWwGAuhORJ0FhFg="
-        }
-      ]
-    },
-    {
-      "Route": "Images/Audia8l.uf9919l8bb.jpg",
-      "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\Audia8l.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "41266"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Ck1FC9nuwFt2VLixkfEaIfvoPmEzJWwGAuhORJ0FhFg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 04:15:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "uf9919l8bb"
-        },
-        {
-          "Name": "label",
-          "Value": "Images/Audia8l.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Ck1FC9nuwFt2VLixkfEaIfvoPmEzJWwGAuhORJ0FhFg="
+          "Value": "sha256-OS+GH/UpF/V2xeTJElAr9Ny4F6gEgWpb4WK11fHL3Y0="
         }
       ]
     },
@@ -5681,7 +5681,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "43465"
+          "Value": "109964"
         },
         {
           "Name": "Content-Type",
@@ -5689,11 +5689,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"sLOMGJT4PZVNETE+zY3JMLXvrMHEd5t0Z0lvunXCT1I=\""
+          "Value": "\"qx19RNJaqWaxW4xNSE8UOZzqLmF6zyhb/T+3agPNEHo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 04:14:30 GMT"
+          "Value": "Mon, 16 Jun 2025 02:37:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5703,12 +5703,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-sLOMGJT4PZVNETE+zY3JMLXvrMHEd5t0Z0lvunXCT1I="
+          "Value": "sha256-qx19RNJaqWaxW4xNSE8UOZzqLmF6zyhb/T+3agPNEHo="
         }
       ]
     },
     {
-      "Route": "Images/ext.kfkps9iwmc.jpg",
+      "Route": "Images/ext.l08zzrkx2h.jpg",
       "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\ext.jpg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5718,7 +5718,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "43465"
+          "Value": "109964"
         },
         {
           "Name": "Content-Type",
@@ -5726,11 +5726,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"sLOMGJT4PZVNETE+zY3JMLXvrMHEd5t0Z0lvunXCT1I=\""
+          "Value": "\"qx19RNJaqWaxW4xNSE8UOZzqLmF6zyhb/T+3agPNEHo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 04:14:30 GMT"
+          "Value": "Mon, 16 Jun 2025 02:37:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5740,7 +5740,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kfkps9iwmc"
+          "Value": "l08zzrkx2h"
         },
         {
           "Name": "label",
@@ -5748,7 +5748,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-sLOMGJT4PZVNETE+zY3JMLXvrMHEd5t0Z0lvunXCT1I="
+          "Value": "sha256-qx19RNJaqWaxW4xNSE8UOZzqLmF6zyhb/T+3agPNEHo="
         }
       ]
     },

@@ -48,8 +48,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>uf9919l8bb</Fingerprint>
-      <Integrity>Ck1FC9nuwFt2VLixkfEaIfvoPmEzJWwGAuhORJ0FhFg=</Integrity>
+      <Fingerprint>hubh1e8j0d</Fingerprint>
+      <Integrity>OS+GH/UpF/V2xeTJElAr9Ny4F6gEgWpb4WK11fHL3Y0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Audia8l.jpg'))</OriginalItemSpec>
@@ -120,8 +120,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>kfkps9iwmc</Fingerprint>
-      <Integrity>sLOMGJT4PZVNETE+zY3JMLXvrMHEd5t0Z0lvunXCT1I=</Integrity>
+      <Fingerprint>l08zzrkx2h</Fingerprint>
+      <Integrity>qx19RNJaqWaxW4xNSE8UOZzqLmF6zyhb/T+3agPNEHo=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ext.jpg'))</OriginalItemSpec>

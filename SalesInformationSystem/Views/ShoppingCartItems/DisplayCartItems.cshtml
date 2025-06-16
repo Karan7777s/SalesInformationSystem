@@ -4,10 +4,10 @@
 	ViewData["Title"] = "DisplayCartItems";
 }
 
->h1>your Items in the cart</h1>
+<h1>your Items in the cart</h1>
 
-<table class="table"
-	<theard>
+<table class="table">
+	<thead>
 		<tr>
 			<th>@Html.DisplayNameFor(model => model.ItemId)
 			</th>
@@ -24,7 +24,10 @@
 				Total Amount
 			</th>
 		</tr>
-	</theard>
+		<th>
+			Delete
+		</th>
+	</thead>
 	<tbody>
 		@{
 			var OverallTotal = 0.0;
@@ -47,11 +50,14 @@
 				<td>
 					@{
 						var tamount = item.Quantity = item.Price;
-						OverallTotal = OverallTotal + tamount;
+						OverallTotal = OverallTotal + tamount;		
 					}
 					@tamount.ToString("C2")
 				</td>
 			</tr>
+			<td>
+				<a class="btn btn-nd btn-danger" asp-controller="ShoppingCartItems" asp-action="DeleteCartItem" asp-route-id="@item.CartPk">Delete</a>
+			</td>
 		}
 	</tbody>
 	</table>

@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using SalesInformationSystem.Data;
 
@@ -11,9 +12,11 @@ using SalesInformationSystem.Data;
 namespace SalesInformationSystem.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250610060035_addedCartItensModel")]
+    partial class addedCartItensModel
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -299,9 +302,6 @@ namespace SalesInformationSystem.Data.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("InvoiceId"));
 
-                    b.Property<int>("CustomerId")
-                        .HasColumnType("int");
-
                     b.Property<DateOnly>("InvoiceDate")
                         .HasColumnType("date");
 
@@ -309,8 +309,6 @@ namespace SalesInformationSystem.Data.Migrations
                         .HasColumnType("float");
 
                     b.HasKey("InvoiceId");
-
-                    b.HasIndex("CustomerId");
 
                     b.ToTable("Invoice");
                 });
@@ -530,17 +528,6 @@ namespace SalesInformationSystem.Data.Migrations
                     b.Navigation("Product");
                 });
 
-            modelBuilder.Entity("SalesInformationSystem.Models.Invoice", b =>
-                {
-                    b.HasOne("SalesInformationSystem.Models.Customer", "Customer")
-                        .WithMany("Invoice")
-                        .HasForeignKey("CustomerId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Customer");
-                });
-
             modelBuilder.Entity("SalesInformationSystem.Models.Payment", b =>
                 {
                     b.HasOne("SalesInformationSystem.Models.Invoice", "Invoice")
@@ -603,8 +590,6 @@ namespace SalesInformationSystem.Data.Migrations
 
             modelBuilder.Entity("SalesInformationSystem.Models.Customer", b =>
                 {
-                    b.Navigation("Invoice");
-
                     b.Navigation("Quotation");
                 });
 

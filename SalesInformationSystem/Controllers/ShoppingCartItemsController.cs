@@ -63,6 +63,18 @@ namespace SalesInformationSystem.Controllers
             return RedirectToAction("DisplayCartItems");
         }
 
+
+        public async Task<IActionResult> DeleteCartItem(int id)
+        {
+            var cartItemDelete = _context.CartItems.Find(id);
+            if (cartItemDelete != null)
+            {
+                _context.CartItems.Remove(cartItemDelete);
+            }
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(DisplayCartItems));
+        }
+
         public string GetCartId()
         {
             var session = HttpContext.Session.GetString(CartSessionKey);
