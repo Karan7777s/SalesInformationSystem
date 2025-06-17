@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets\\Images\\JAGUAR-XJ.jpg"
     },
     {
+      "Id": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\Jeep.jpg",
+      "PackagePath": "staticwebassets\\Images\\Jeep.jpg"
+    },
+    {
       "Id": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\Land-Rover.jpg",
       "PackagePath": "staticwebassets\\Images\\Land-Rover.jpg"
     },
@@ -59,10 +63,6 @@
     {
       "Id": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\ext.jpg",
       "PackagePath": "staticwebassets\\Images\\ext.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\jeep.jpg",
-      "PackagePath": "staticwebassets\\Images\\jeep.jpg"
     },
     {
       "Id": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\mercedes-1-1.jpg",

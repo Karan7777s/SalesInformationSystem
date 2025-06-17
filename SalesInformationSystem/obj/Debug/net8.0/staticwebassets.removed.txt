@@ -1,0 +1,15 @@
+C:\Users\Admin\Downloads\SalesInformationSystem\SalesInformationSystem\SalesInformationSystem\wwwroot\Images\Audia8l.png
+C:\Users\Admin\Downloads\SalesInformationSystem\SalesInformationSystem\SalesInformationSystem\wwwroot\Images\Bentley-at-Chantilly.png
+C:\Users\Admin\Downloads\SalesInformationSystem\SalesInformationSystem\SalesInformationSystem\wwwroot\Images\bmw-ix.png
+C:\Users\Admin\Downloads\SalesInformationSystem\SalesInformationSystem\SalesInformationSystem\wwwroot\Images\ext.png
+C:\Users\Admin\Downloads\SalesInformationSystem\SalesInformationSystem\SalesInformationSystem\wwwroot\Images\Honda-Civic.png
+C:\Users\Admin\Downloads\SalesInformationSystem\SalesInformationSystem\SalesInformationSystem\wwwroot\Images\JAGUAR-XJ.png
+C:\Users\Admin\Downloads\SalesInformationSystem\SalesInformationSystem\SalesInformationSystem\wwwroot\Images\Jeep.png
+C:\Users\Admin\Downloads\SalesInformationSystem\SalesInformationSystem\SalesInformationSystem\wwwroot\Images\Land-Rover.png
+C:\Users\Admin\Downloads\SalesInformationSystem\SalesInformationSystem\SalesInformationSystem\wwwroot\Images\Lexus-RX.png
+C:\Users\Admin\Downloads\SalesInformationSystem\SalesInformationSystem\SalesInformationSystem\wwwroot\Images\mercedes.png
+C:\Users\Admin\Downloads\SalesInformationSystem\SalesInformationSystem\SalesInformationSystem\wwwroot\Images\mercedes-1-1.png
+C:\Users\Admin\Downloads\SalesInformationSystem\SalesInformationSystem\SalesInformationSystem\wwwroot\Images\Nissan.png
+C:\Users\Admin\Downloads\SalesInformationSystem\SalesInformationSystem\SalesInformationSystem\wwwroot\Images\PORSCHE.png
+C:\Users\Admin\Downloads\SalesInformationSystem\SalesInformationSystem\SalesInformationSystem\wwwroot\Images\Tesla-Model-X-1.png
+C:\Users\Admin\Downloads\SalesInformationSystem\SalesInformationSystem\SalesInformationSystem\wwwroot\Images\Toyota-mirai.png

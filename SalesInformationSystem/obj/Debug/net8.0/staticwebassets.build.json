@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hjCsHs1hrGPAXzpe97f6Lne5mP7PDKYJrPJ6cYtC/FU=",
+  "Hash": "ymT1MTLrXC/kgLM8yXmg3xjYad+z1pawt0DxzwFmdGo=",
   "Source": "SalesInformationSystem",
   "BasePath": "_content/SalesInformationSystem",
   "Mode": "Default",
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "hubh1e8j0d",
-      "Integrity": "OS+GH/UpF/V2xeTJElAr9Ny4F6gEgWpb4WK11fHL3Y0=",
+      "Fingerprint": "mvmgs3y6x9",
+      "Integrity": "0v+Tp7T/gGMn9w7YMJMsOjqm6AI/TseQHPWZ4EibR6E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Audia8l.jpg"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "s6y8ot7sv0",
-      "Integrity": "7IQmIjATcAu3utDed3jF5tE0XRbrrSshOuYFDY2uUAE=",
+      "Fingerprint": "iij7sswinj",
+      "Integrity": "imri6etzK21kFpE7zr+0ULPz0COw48EEuvwOR0hNm1g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Bentley-at-Chantilly.jpg"
@@ -1438,8 +1438,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "j9zbpomms0",
-      "Integrity": "R4D5QdnwOidc2gGvJOwaDrHG1z/NMHekgPqDTPNpILg=",
+      "Fingerprint": "rtbn85zh8j",
+      "Integrity": "n0e4VVIlw+xYdEdttQLkLxVcIvY4Upz9xEXs7JdvAZQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\bmw-ix.jpg"
@@ -1459,8 +1459,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "l08zzrkx2h",
-      "Integrity": "qx19RNJaqWaxW4xNSE8UOZzqLmF6zyhb/T+3agPNEHo=",
+      "Fingerprint": "8kaxglwrzx",
+      "Integrity": "uPfK0x5NQdYLFdtZK7J5x7XyRLuFrDxa9B+hwauFCf0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\ext.jpg"
@@ -1480,8 +1480,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "x3y6nzysgk",
-      "Integrity": "LfVFNbeMmfV5djJTSDX+FQ2+8wDoG6Y3QrfX1dUNXpc=",
+      "Fingerprint": "ask3vaypat",
+      "Integrity": "+tKpMV0NBgwPCtio6nQHRtU3uSxJKvkN1IqKduXPvFc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Honda-Civic.jpg"
@@ -1501,19 +1501,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "z4yiuy0mzd",
-      "Integrity": "rVxH5O8VF4K6Ys09hT+p7ek51va3xyzcdC0FAhr6lkI=",
+      "Fingerprint": "12ye8k1v03",
+      "Integrity": "F7TuHe8zWZO9ijXvNcuJroqa+Jgorhx741xc2rNgJNk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\JAGUAR-XJ.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\jeep.jpg",
+      "Identity": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\Jeep.jpg",
       "SourceId": "SalesInformationSystem",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\",
       "BasePath": "_content/SalesInformationSystem",
-      "RelativePath": "Images/jeep#[.{fingerprint}]?.jpg",
+      "RelativePath": "Images/Jeep#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1522,11 +1522,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "krm37vuyj3",
-      "Integrity": "AMfY9b4PMJvv2Rem/wqUIG101pHBya0Bd5vG7+jOYbE=",
+      "Fingerprint": "q33mt2j8u6",
+      "Integrity": "ypHN5XkBFEOMZsK/zKjlXs33TLf+xk7FWlUIQOAMTd0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\jeep.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\Jeep.jpg"
     },
     {
       "Identity": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\Land-Rover.jpg",
@@ -1543,8 +1543,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3x1s9d2vps",
-      "Integrity": "t9Wl4c0K4VRS3K+VahKZGtI6OiYA1BJLnjk3NXzPIBU=",
+      "Fingerprint": "98i1kz2b8x",
+      "Integrity": "ifLcL9+dMHA4JtkZAPr0cO2kjg9guC7UEJQoURfYBYM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Land-Rover.jpg"
@@ -1564,8 +1564,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "y8w0pa2dsr",
-      "Integrity": "vtuEvHsN5dCxwoR26YkIYCVWFTdBveOZczIMwKITag0=",
+      "Fingerprint": "tn6jgmvevl",
+      "Integrity": "eUCvfh6o9DoMISJ7iMqZ8TfBzp3eWFWqwEXFxYVq0XU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Lexus-RX.jpg"
@@ -1585,8 +1585,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "36y8spmtg7",
-      "Integrity": "+57Sg3/SjoJ+UzMLQATLSdn1OLdTMzRotahY/RDKeV4=",
+      "Fingerprint": "dyw6frhtn8",
+      "Integrity": "qwh3W5PoJvSr1FMIanVZqZWwNhbb7K9v83uG7Mo0tNg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\mercedes.jpg"
@@ -1606,8 +1606,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "zu798ren5j",
-      "Integrity": "C4S+PD9QfmlgDMoGZsntnM5Cj3ZUNIlbNkOfNXl4iEM=",
+      "Fingerprint": "sypieq218i",
+      "Integrity": "9ClFGhIxltBRZ6uPj1DRNL5By6xETvqMsZGNrlyVKhg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\mercedes-1-1.jpg"
@@ -1627,8 +1627,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "sirmlrtqew",
-      "Integrity": "LPqw1kfT2/e2QcYzuDvbTpimfPilZwBYEirZ5HzkAp4=",
+      "Fingerprint": "w6rycq8y8h",
+      "Integrity": "KPJJo3MSCXJN5VxS6AFbvS+m589luXk4IZXKBfYfEa8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Nissan.jpg"
@@ -1648,8 +1648,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "yktym30mmy",
-      "Integrity": "QgyEEU6t3pYt0A5zeq5OXQhdNXypy4hAyE794CnEPNg=",
+      "Fingerprint": "3v2o2ppv8z",
+      "Integrity": "f7p0UHvoLFgDxrTupWshONaCWILqfVBYjYuDLb3FUuQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\PORSCHE.jpg"
@@ -1669,8 +1669,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ndjeo2178w",
-      "Integrity": "ZXZe+O1vZBX397dxVxYACHgCXOIN4HX4mBqrC8TuXes=",
+      "Fingerprint": "de8zk5ctj8",
+      "Integrity": "Rd1TDrMuE4ANKALX0VVpKLCKRXr/tJmFGzNhoWfUyv8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Tesla-Model-X-1.jpg"
@@ -1690,8 +1690,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ngeysxeyqc",
-      "Integrity": "t53mc1xvBy0KKobZsrlIvDYmPBppw9jMUiZAJDL1U4c=",
+      "Fingerprint": "jkvmx2hcup",
+      "Integrity": "rZ3//x3CSCXTOIVUznp6vdDCfsCApOIac790Y2VgBMA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Toyota-mirai.jpg"
@@ -1711,8 +1711,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "uk1exuqun9",
-      "Integrity": "gueKFYxXtTH72P6D+EpX16kfQGoOYF0CAzSCh1EFggg=",
+      "Fingerprint": "unrk9ax20x",
+      "Integrity": "9pXuQqY6DSWHsC68WQ2gTi2pVfGd03dGhz2fV/kVMrE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\volkswagen-jetta.jpg"
@@ -1732,8 +1732,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "87qrfxkzuv",
-      "Integrity": "ZFDt+bV8Ib5Z0mWpVExHDOtBxUpFe1ksWBYCAtdV4zI=",
+      "Fingerprint": "4gh3r46hap",
+      "Integrity": "FKbrTZmFonkOLOQBTAlVJxiocda3XMmpZLogOSo4sS8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Volvo-car.jpg"
@@ -5343,51 +5343,6 @@
       ]
     },
     {
-      "Route": "Images/Audia8l.hubh1e8j0d.jpg",
-      "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\Audia8l.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "82658"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"OS+GH/UpF/V2xeTJElAr9Ny4F6gEgWpb4WK11fHL3Y0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 16 Jun 2025 02:37:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hubh1e8j0d"
-        },
-        {
-          "Name": "label",
-          "Value": "Images/Audia8l.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-OS+GH/UpF/V2xeTJElAr9Ny4F6gEgWpb4WK11fHL3Y0="
-        }
-      ]
-    },
-    {
       "Route": "Images/Audia8l.jpg",
       "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\Audia8l.jpg",
       "Selectors": [],
@@ -5398,7 +5353,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "82658"
+          "Value": "648736"
         },
         {
           "Name": "Content-Type",
@@ -5406,11 +5361,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OS+GH/UpF/V2xeTJElAr9Ny4F6gEgWpb4WK11fHL3Y0=\""
+          "Value": "\"0v+Tp7T/gGMn9w7YMJMsOjqm6AI/TseQHPWZ4EibR6E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Jun 2025 02:37:35 GMT"
+          "Value": "Mon, 16 Jun 2025 05:00:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5420,7 +5375,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OS+GH/UpF/V2xeTJElAr9Ny4F6gEgWpb4WK11fHL3Y0="
+          "Value": "sha256-0v+Tp7T/gGMn9w7YMJMsOjqm6AI/TseQHPWZ4EibR6E="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Audia8l.mvmgs3y6x9.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\Audia8l.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "648736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0v+Tp7T/gGMn9w7YMJMsOjqm6AI/TseQHPWZ4EibR6E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Jun 2025 05:00:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mvmgs3y6x9"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Audia8l.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0v+Tp7T/gGMn9w7YMJMsOjqm6AI/TseQHPWZ4EibR6E="
         }
       ]
     },
@@ -5507,6 +5507,51 @@
       ]
     },
     {
+      "Route": "Images/Bentley-at-Chantilly.iij7sswinj.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\Bentley-at-Chantilly.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "771844"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"imri6etzK21kFpE7zr+0ULPz0COw48EEuvwOR0hNm1g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Jun 2025 04:24:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iij7sswinj"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Bentley-at-Chantilly.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-imri6etzK21kFpE7zr+0ULPz0COw48EEuvwOR0hNm1g="
+        }
+      ]
+    },
+    {
       "Route": "Images/Bentley-at-Chantilly.jpg",
       "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\Bentley-at-Chantilly.jpg",
       "Selectors": [],
@@ -5517,7 +5562,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "25226"
+          "Value": "771844"
         },
         {
           "Name": "Content-Type",
@@ -5525,11 +5570,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7IQmIjATcAu3utDed3jF5tE0XRbrrSshOuYFDY2uUAE=\""
+          "Value": "\"imri6etzK21kFpE7zr+0ULPz0COw48EEuvwOR0hNm1g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 04:15:56 GMT"
+          "Value": "Mon, 16 Jun 2025 04:24:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5539,97 +5584,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7IQmIjATcAu3utDed3jF5tE0XRbrrSshOuYFDY2uUAE="
-        }
-      ]
-    },
-    {
-      "Route": "Images/Bentley-at-Chantilly.s6y8ot7sv0.jpg",
-      "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\Bentley-at-Chantilly.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "25226"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"7IQmIjATcAu3utDed3jF5tE0XRbrrSshOuYFDY2uUAE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 04:15:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "s6y8ot7sv0"
-        },
-        {
-          "Name": "label",
-          "Value": "Images/Bentley-at-Chantilly.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-7IQmIjATcAu3utDed3jF5tE0XRbrrSshOuYFDY2uUAE="
-        }
-      ]
-    },
-    {
-      "Route": "Images/bmw-ix.j9zbpomms0.jpg",
-      "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\bmw-ix.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "42236"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"R4D5QdnwOidc2gGvJOwaDrHG1z/NMHekgPqDTPNpILg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 04:16:03 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "j9zbpomms0"
-        },
-        {
-          "Name": "label",
-          "Value": "Images/bmw-ix.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-R4D5QdnwOidc2gGvJOwaDrHG1z/NMHekgPqDTPNpILg="
+          "Value": "sha256-imri6etzK21kFpE7zr+0ULPz0COw48EEuvwOR0hNm1g="
         }
       ]
     },
@@ -5644,7 +5599,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "42236"
+          "Value": "453320"
         },
         {
           "Name": "Content-Type",
@@ -5652,11 +5607,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"R4D5QdnwOidc2gGvJOwaDrHG1z/NMHekgPqDTPNpILg=\""
+          "Value": "\"n0e4VVIlw+xYdEdttQLkLxVcIvY4Upz9xEXs7JdvAZQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 04:16:03 GMT"
+          "Value": "Mon, 16 Jun 2025 04:23:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5666,7 +5621,97 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-R4D5QdnwOidc2gGvJOwaDrHG1z/NMHekgPqDTPNpILg="
+          "Value": "sha256-n0e4VVIlw+xYdEdttQLkLxVcIvY4Upz9xEXs7JdvAZQ="
+        }
+      ]
+    },
+    {
+      "Route": "Images/bmw-ix.rtbn85zh8j.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\bmw-ix.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "453320"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n0e4VVIlw+xYdEdttQLkLxVcIvY4Upz9xEXs7JdvAZQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Jun 2025 04:23:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rtbn85zh8j"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/bmw-ix.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-n0e4VVIlw+xYdEdttQLkLxVcIvY4Upz9xEXs7JdvAZQ="
+        }
+      ]
+    },
+    {
+      "Route": "Images/ext.8kaxglwrzx.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\ext.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "707146"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uPfK0x5NQdYLFdtZK7J5x7XyRLuFrDxa9B+hwauFCf0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Jun 2025 04:12:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8kaxglwrzx"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/ext.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uPfK0x5NQdYLFdtZK7J5x7XyRLuFrDxa9B+hwauFCf0="
         }
       ]
     },
@@ -5681,7 +5726,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "109964"
+          "Value": "707146"
         },
         {
           "Name": "Content-Type",
@@ -5689,11 +5734,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qx19RNJaqWaxW4xNSE8UOZzqLmF6zyhb/T+3agPNEHo=\""
+          "Value": "\"uPfK0x5NQdYLFdtZK7J5x7XyRLuFrDxa9B+hwauFCf0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Jun 2025 02:37:25 GMT"
+          "Value": "Mon, 16 Jun 2025 04:12:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5703,13 +5748,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qx19RNJaqWaxW4xNSE8UOZzqLmF6zyhb/T+3agPNEHo="
+          "Value": "sha256-uPfK0x5NQdYLFdtZK7J5x7XyRLuFrDxa9B+hwauFCf0="
         }
       ]
     },
     {
-      "Route": "Images/ext.l08zzrkx2h.jpg",
-      "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\ext.jpg",
+      "Route": "Images/Honda-Civic.ask3vaypat.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\Honda-Civic.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5718,7 +5763,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "109964"
+          "Value": "676699"
         },
         {
           "Name": "Content-Type",
@@ -5726,11 +5771,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qx19RNJaqWaxW4xNSE8UOZzqLmF6zyhb/T+3agPNEHo=\""
+          "Value": "\"+tKpMV0NBgwPCtio6nQHRtU3uSxJKvkN1IqKduXPvFc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Jun 2025 02:37:25 GMT"
+          "Value": "Mon, 16 Jun 2025 04:29:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5740,15 +5785,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "l08zzrkx2h"
+          "Value": "ask3vaypat"
         },
         {
           "Name": "label",
-          "Value": "Images/ext.jpg"
+          "Value": "Images/Honda-Civic.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-qx19RNJaqWaxW4xNSE8UOZzqLmF6zyhb/T+3agPNEHo="
+          "Value": "sha256-+tKpMV0NBgwPCtio6nQHRtU3uSxJKvkN1IqKduXPvFc="
         }
       ]
     },
@@ -5763,7 +5808,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "34046"
+          "Value": "676699"
         },
         {
           "Name": "Content-Type",
@@ -5771,11 +5816,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LfVFNbeMmfV5djJTSDX+FQ2+8wDoG6Y3QrfX1dUNXpc=\""
+          "Value": "\"+tKpMV0NBgwPCtio6nQHRtU3uSxJKvkN1IqKduXPvFc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 04:14:14 GMT"
+          "Value": "Mon, 16 Jun 2025 04:29:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5785,13 +5830,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LfVFNbeMmfV5djJTSDX+FQ2+8wDoG6Y3QrfX1dUNXpc="
+          "Value": "sha256-+tKpMV0NBgwPCtio6nQHRtU3uSxJKvkN1IqKduXPvFc="
         }
       ]
     },
     {
-      "Route": "Images/Honda-Civic.x3y6nzysgk.jpg",
-      "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\Honda-Civic.jpg",
+      "Route": "Images/JAGUAR-XJ.12ye8k1v03.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\JAGUAR-XJ.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5800,7 +5845,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "34046"
+          "Value": "430775"
         },
         {
           "Name": "Content-Type",
@@ -5808,11 +5853,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LfVFNbeMmfV5djJTSDX+FQ2+8wDoG6Y3QrfX1dUNXpc=\""
+          "Value": "\"F7TuHe8zWZO9ijXvNcuJroqa+Jgorhx741xc2rNgJNk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 04:14:14 GMT"
+          "Value": "Mon, 16 Jun 2025 04:28:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5822,15 +5867,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "x3y6nzysgk"
+          "Value": "12ye8k1v03"
         },
         {
           "Name": "label",
-          "Value": "Images/Honda-Civic.jpg"
+          "Value": "Images/JAGUAR-XJ.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-LfVFNbeMmfV5djJTSDX+FQ2+8wDoG6Y3QrfX1dUNXpc="
+          "Value": "sha256-F7TuHe8zWZO9ijXvNcuJroqa+Jgorhx741xc2rNgJNk="
         }
       ]
     },
@@ -5845,7 +5890,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23998"
+          "Value": "430775"
         },
         {
           "Name": "Content-Type",
@@ -5853,11 +5898,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rVxH5O8VF4K6Ys09hT+p7ek51va3xyzcdC0FAhr6lkI=\""
+          "Value": "\"F7TuHe8zWZO9ijXvNcuJroqa+Jgorhx741xc2rNgJNk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 04:15:10 GMT"
+          "Value": "Mon, 16 Jun 2025 04:28:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5867,13 +5912,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rVxH5O8VF4K6Ys09hT+p7ek51va3xyzcdC0FAhr6lkI="
+          "Value": "sha256-F7TuHe8zWZO9ijXvNcuJroqa+Jgorhx741xc2rNgJNk="
         }
       ]
     },
     {
-      "Route": "Images/JAGUAR-XJ.z4yiuy0mzd.jpg",
-      "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\JAGUAR-XJ.jpg",
+      "Route": "Images/Jeep.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\Jeep.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5882,7 +5927,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23998"
+          "Value": "620572"
         },
         {
           "Name": "Content-Type",
@@ -5890,56 +5935,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rVxH5O8VF4K6Ys09hT+p7ek51va3xyzcdC0FAhr6lkI=\""
+          "Value": "\"ypHN5XkBFEOMZsK/zKjlXs33TLf+xk7FWlUIQOAMTd0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 04:15:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "z4yiuy0mzd"
-        },
-        {
-          "Name": "label",
-          "Value": "Images/JAGUAR-XJ.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rVxH5O8VF4K6Ys09hT+p7ek51va3xyzcdC0FAhr6lkI="
-        }
-      ]
-    },
-    {
-      "Route": "Images/jeep.jpg",
-      "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\jeep.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6250"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AMfY9b4PMJvv2Rem/wqUIG101pHBya0Bd5vG7+jOYbE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 02:34:52 GMT"
+          "Value": "Mon, 16 Jun 2025 04:19:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5949,13 +5949,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AMfY9b4PMJvv2Rem/wqUIG101pHBya0Bd5vG7+jOYbE="
+          "Value": "sha256-ypHN5XkBFEOMZsK/zKjlXs33TLf+xk7FWlUIQOAMTd0="
         }
       ]
     },
     {
-      "Route": "Images/jeep.krm37vuyj3.jpg",
-      "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\jeep.jpg",
+      "Route": "Images/Jeep.q33mt2j8u6.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\Jeep.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5964,7 +5964,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6250"
+          "Value": "620572"
         },
         {
           "Name": "Content-Type",
@@ -5972,11 +5972,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AMfY9b4PMJvv2Rem/wqUIG101pHBya0Bd5vG7+jOYbE=\""
+          "Value": "\"ypHN5XkBFEOMZsK/zKjlXs33TLf+xk7FWlUIQOAMTd0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 02:34:52 GMT"
+          "Value": "Mon, 16 Jun 2025 04:19:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5986,20 +5986,20 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "krm37vuyj3"
+          "Value": "q33mt2j8u6"
         },
         {
           "Name": "label",
-          "Value": "Images/jeep.jpg"
+          "Value": "Images/Jeep.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-AMfY9b4PMJvv2Rem/wqUIG101pHBya0Bd5vG7+jOYbE="
+          "Value": "sha256-ypHN5XkBFEOMZsK/zKjlXs33TLf+xk7FWlUIQOAMTd0="
         }
       ]
     },
     {
-      "Route": "Images/Land-Rover.3x1s9d2vps.jpg",
+      "Route": "Images/Land-Rover.98i1kz2b8x.jpg",
       "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\Land-Rover.jpg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -6009,7 +6009,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "91864"
+          "Value": "391496"
         },
         {
           "Name": "Content-Type",
@@ -6017,11 +6017,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"t9Wl4c0K4VRS3K+VahKZGtI6OiYA1BJLnjk3NXzPIBU=\""
+          "Value": "\"ifLcL9+dMHA4JtkZAPr0cO2kjg9guC7UEJQoURfYBYM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 04:15:33 GMT"
+          "Value": "Mon, 16 Jun 2025 04:25:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6031,7 +6031,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3x1s9d2vps"
+          "Value": "98i1kz2b8x"
         },
         {
           "Name": "label",
@@ -6039,7 +6039,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-t9Wl4c0K4VRS3K+VahKZGtI6OiYA1BJLnjk3NXzPIBU="
+          "Value": "sha256-ifLcL9+dMHA4JtkZAPr0cO2kjg9guC7UEJQoURfYBYM="
         }
       ]
     },
@@ -6054,7 +6054,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "91864"
+          "Value": "391496"
         },
         {
           "Name": "Content-Type",
@@ -6062,11 +6062,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"t9Wl4c0K4VRS3K+VahKZGtI6OiYA1BJLnjk3NXzPIBU=\""
+          "Value": "\"ifLcL9+dMHA4JtkZAPr0cO2kjg9guC7UEJQoURfYBYM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 04:15:33 GMT"
+          "Value": "Mon, 16 Jun 2025 04:25:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6076,7 +6076,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-t9Wl4c0K4VRS3K+VahKZGtI6OiYA1BJLnjk3NXzPIBU="
+          "Value": "sha256-ifLcL9+dMHA4JtkZAPr0cO2kjg9guC7UEJQoURfYBYM="
         }
       ]
     },
@@ -6091,7 +6091,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "61520"
+          "Value": "565599"
         },
         {
           "Name": "Content-Type",
@@ -6099,11 +6099,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vtuEvHsN5dCxwoR26YkIYCVWFTdBveOZczIMwKITag0=\""
+          "Value": "\"eUCvfh6o9DoMISJ7iMqZ8TfBzp3eWFWqwEXFxYVq0XU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 04:15:41 GMT"
+          "Value": "Mon, 16 Jun 2025 04:26:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6113,12 +6113,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vtuEvHsN5dCxwoR26YkIYCVWFTdBveOZczIMwKITag0="
+          "Value": "sha256-eUCvfh6o9DoMISJ7iMqZ8TfBzp3eWFWqwEXFxYVq0XU="
         }
       ]
     },
     {
-      "Route": "Images/Lexus-RX.y8w0pa2dsr.jpg",
+      "Route": "Images/Lexus-RX.tn6jgmvevl.jpg",
       "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\Lexus-RX.jpg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -6128,7 +6128,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "61520"
+          "Value": "565599"
         },
         {
           "Name": "Content-Type",
@@ -6136,11 +6136,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vtuEvHsN5dCxwoR26YkIYCVWFTdBveOZczIMwKITag0=\""
+          "Value": "\"eUCvfh6o9DoMISJ7iMqZ8TfBzp3eWFWqwEXFxYVq0XU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 04:15:41 GMT"
+          "Value": "Mon, 16 Jun 2025 04:26:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6150,7 +6150,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "y8w0pa2dsr"
+          "Value": "tn6jgmvevl"
         },
         {
           "Name": "label",
@@ -6158,12 +6158,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-vtuEvHsN5dCxwoR26YkIYCVWFTdBveOZczIMwKITag0="
+          "Value": "sha256-eUCvfh6o9DoMISJ7iMqZ8TfBzp3eWFWqwEXFxYVq0XU="
         }
       ]
     },
     {
-      "Route": "Images/mercedes.36y8spmtg7.jpg",
+      "Route": "Images/mercedes.dyw6frhtn8.jpg",
       "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\mercedes.jpg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -6173,7 +6173,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "167673"
+          "Value": "638540"
         },
         {
           "Name": "Content-Type",
@@ -6181,11 +6181,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+57Sg3/SjoJ+UzMLQATLSdn1OLdTMzRotahY/RDKeV4=\""
+          "Value": "\"qwh3W5PoJvSr1FMIanVZqZWwNhbb7K9v83uG7Mo0tNg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 04:16:20 GMT"
+          "Value": "Mon, 16 Jun 2025 03:41:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6195,7 +6195,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "36y8spmtg7"
+          "Value": "dyw6frhtn8"
         },
         {
           "Name": "label",
@@ -6203,7 +6203,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+57Sg3/SjoJ+UzMLQATLSdn1OLdTMzRotahY/RDKeV4="
+          "Value": "sha256-qwh3W5PoJvSr1FMIanVZqZWwNhbb7K9v83uG7Mo0tNg="
         }
       ]
     },
@@ -6218,7 +6218,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "167673"
+          "Value": "638540"
         },
         {
           "Name": "Content-Type",
@@ -6226,11 +6226,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+57Sg3/SjoJ+UzMLQATLSdn1OLdTMzRotahY/RDKeV4=\""
+          "Value": "\"qwh3W5PoJvSr1FMIanVZqZWwNhbb7K9v83uG7Mo0tNg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 04:16:20 GMT"
+          "Value": "Mon, 16 Jun 2025 03:41:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6240,7 +6240,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+57Sg3/SjoJ+UzMLQATLSdn1OLdTMzRotahY/RDKeV4="
+          "Value": "sha256-qwh3W5PoJvSr1FMIanVZqZWwNhbb7K9v83uG7Mo0tNg="
         }
       ]
     },
@@ -6255,7 +6255,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "142775"
+          "Value": "697147"
         },
         {
           "Name": "Content-Type",
@@ -6263,11 +6263,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"C4S+PD9QfmlgDMoGZsntnM5Cj3ZUNIlbNkOfNXl4iEM=\""
+          "Value": "\"9ClFGhIxltBRZ6uPj1DRNL5By6xETvqMsZGNrlyVKhg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 04:14:07 GMT"
+          "Value": "Mon, 16 Jun 2025 04:58:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6277,12 +6277,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-C4S+PD9QfmlgDMoGZsntnM5Cj3ZUNIlbNkOfNXl4iEM="
+          "Value": "sha256-9ClFGhIxltBRZ6uPj1DRNL5By6xETvqMsZGNrlyVKhg="
         }
       ]
     },
     {
-      "Route": "Images/mercedes-1-1.zu798ren5j.jpg",
+      "Route": "Images/mercedes-1-1.sypieq218i.jpg",
       "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\mercedes-1-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -6292,7 +6292,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "142775"
+          "Value": "697147"
         },
         {
           "Name": "Content-Type",
@@ -6300,11 +6300,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"C4S+PD9QfmlgDMoGZsntnM5Cj3ZUNIlbNkOfNXl4iEM=\""
+          "Value": "\"9ClFGhIxltBRZ6uPj1DRNL5By6xETvqMsZGNrlyVKhg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 04:14:07 GMT"
+          "Value": "Mon, 16 Jun 2025 04:58:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6314,7 +6314,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zu798ren5j"
+          "Value": "sypieq218i"
         },
         {
           "Name": "label",
@@ -6322,7 +6322,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-C4S+PD9QfmlgDMoGZsntnM5Cj3ZUNIlbNkOfNXl4iEM="
+          "Value": "sha256-9ClFGhIxltBRZ6uPj1DRNL5By6xETvqMsZGNrlyVKhg="
         }
       ]
     },
@@ -6337,7 +6337,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15052"
+          "Value": "340528"
         },
         {
           "Name": "Content-Type",
@@ -6345,11 +6345,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LPqw1kfT2/e2QcYzuDvbTpimfPilZwBYEirZ5HzkAp4=\""
+          "Value": "\"KPJJo3MSCXJN5VxS6AFbvS+m589luXk4IZXKBfYfEa8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 04:14:21 GMT"
+          "Value": "Mon, 16 Jun 2025 04:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6359,12 +6359,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LPqw1kfT2/e2QcYzuDvbTpimfPilZwBYEirZ5HzkAp4="
+          "Value": "sha256-KPJJo3MSCXJN5VxS6AFbvS+m589luXk4IZXKBfYfEa8="
         }
       ]
     },
     {
-      "Route": "Images/Nissan.sirmlrtqew.jpg",
+      "Route": "Images/Nissan.w6rycq8y8h.jpg",
       "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\Nissan.jpg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -6374,7 +6374,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15052"
+          "Value": "340528"
         },
         {
           "Name": "Content-Type",
@@ -6382,11 +6382,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LPqw1kfT2/e2QcYzuDvbTpimfPilZwBYEirZ5HzkAp4=\""
+          "Value": "\"KPJJo3MSCXJN5VxS6AFbvS+m589luXk4IZXKBfYfEa8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 04:14:21 GMT"
+          "Value": "Mon, 16 Jun 2025 04:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6396,7 +6396,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "sirmlrtqew"
+          "Value": "w6rycq8y8h"
         },
         {
           "Name": "label",
@@ -6404,7 +6404,52 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-LPqw1kfT2/e2QcYzuDvbTpimfPilZwBYEirZ5HzkAp4="
+          "Value": "sha256-KPJJo3MSCXJN5VxS6AFbvS+m589luXk4IZXKBfYfEa8="
+        }
+      ]
+    },
+    {
+      "Route": "Images/PORSCHE.3v2o2ppv8z.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\PORSCHE.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "766875"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f7p0UHvoLFgDxrTupWshONaCWILqfVBYjYuDLb3FUuQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Jun 2025 04:25:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3v2o2ppv8z"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/PORSCHE.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f7p0UHvoLFgDxrTupWshONaCWILqfVBYjYuDLb3FUuQ="
         }
       ]
     },
@@ -6419,7 +6464,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "67394"
+          "Value": "766875"
         },
         {
           "Name": "Content-Type",
@@ -6427,11 +6472,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QgyEEU6t3pYt0A5zeq5OXQhdNXypy4hAyE794CnEPNg=\""
+          "Value": "\"f7p0UHvoLFgDxrTupWshONaCWILqfVBYjYuDLb3FUuQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 04:15:49 GMT"
+          "Value": "Mon, 16 Jun 2025 04:25:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6441,13 +6486,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-QgyEEU6t3pYt0A5zeq5OXQhdNXypy4hAyE794CnEPNg="
+          "Value": "sha256-f7p0UHvoLFgDxrTupWshONaCWILqfVBYjYuDLb3FUuQ="
         }
       ]
     },
     {
-      "Route": "Images/PORSCHE.yktym30mmy.jpg",
-      "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\PORSCHE.jpg",
+      "Route": "Images/Tesla-Model-X-1.de8zk5ctj8.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\Tesla-Model-X-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6456,7 +6501,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "67394"
+          "Value": "771619"
         },
         {
           "Name": "Content-Type",
@@ -6464,11 +6509,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QgyEEU6t3pYt0A5zeq5OXQhdNXypy4hAyE794CnEPNg=\""
+          "Value": "\"Rd1TDrMuE4ANKALX0VVpKLCKRXr/tJmFGzNhoWfUyv8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 04:15:49 GMT"
+          "Value": "Tue, 17 Jun 2025 02:18:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6478,15 +6523,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yktym30mmy"
+          "Value": "de8zk5ctj8"
         },
         {
           "Name": "label",
-          "Value": "Images/PORSCHE.jpg"
+          "Value": "Images/Tesla-Model-X-1.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-QgyEEU6t3pYt0A5zeq5OXQhdNXypy4hAyE794CnEPNg="
+          "Value": "sha256-Rd1TDrMuE4ANKALX0VVpKLCKRXr/tJmFGzNhoWfUyv8="
         }
       ]
     },
@@ -6501,7 +6546,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "66673"
+          "Value": "771619"
         },
         {
           "Name": "Content-Type",
@@ -6509,11 +6554,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZXZe+O1vZBX397dxVxYACHgCXOIN4HX4mBqrC8TuXes=\""
+          "Value": "\"Rd1TDrMuE4ANKALX0VVpKLCKRXr/tJmFGzNhoWfUyv8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 04:16:11 GMT"
+          "Value": "Tue, 17 Jun 2025 02:18:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6523,13 +6568,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZXZe+O1vZBX397dxVxYACHgCXOIN4HX4mBqrC8TuXes="
+          "Value": "sha256-Rd1TDrMuE4ANKALX0VVpKLCKRXr/tJmFGzNhoWfUyv8="
         }
       ]
     },
     {
-      "Route": "Images/Tesla-Model-X-1.ndjeo2178w.jpg",
-      "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\Tesla-Model-X-1.jpg",
+      "Route": "Images/Toyota-mirai.jkvmx2hcup.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\Toyota-mirai.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6538,7 +6583,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "66673"
+          "Value": "970172"
         },
         {
           "Name": "Content-Type",
@@ -6546,11 +6591,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZXZe+O1vZBX397dxVxYACHgCXOIN4HX4mBqrC8TuXes=\""
+          "Value": "\"rZ3//x3CSCXTOIVUznp6vdDCfsCApOIac790Y2VgBMA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 04:16:11 GMT"
+          "Value": "Mon, 16 Jun 2025 04:27:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6560,15 +6605,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ndjeo2178w"
+          "Value": "jkvmx2hcup"
         },
         {
           "Name": "label",
-          "Value": "Images/Tesla-Model-X-1.jpg"
+          "Value": "Images/Toyota-mirai.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ZXZe+O1vZBX397dxVxYACHgCXOIN4HX4mBqrC8TuXes="
+          "Value": "sha256-rZ3//x3CSCXTOIVUznp6vdDCfsCApOIac790Y2VgBMA="
         }
       ]
     },
@@ -6583,7 +6628,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "72226"
+          "Value": "970172"
         },
         {
           "Name": "Content-Type",
@@ -6591,11 +6636,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"t53mc1xvBy0KKobZsrlIvDYmPBppw9jMUiZAJDL1U4c=\""
+          "Value": "\"rZ3//x3CSCXTOIVUznp6vdDCfsCApOIac790Y2VgBMA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 04:15:26 GMT"
+          "Value": "Mon, 16 Jun 2025 04:27:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6605,52 +6650,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-t53mc1xvBy0KKobZsrlIvDYmPBppw9jMUiZAJDL1U4c="
-        }
-      ]
-    },
-    {
-      "Route": "Images/Toyota-mirai.ngeysxeyqc.jpg",
-      "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\Toyota-mirai.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "72226"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"t53mc1xvBy0KKobZsrlIvDYmPBppw9jMUiZAJDL1U4c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 04:15:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ngeysxeyqc"
-        },
-        {
-          "Name": "label",
-          "Value": "Images/Toyota-mirai.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-t53mc1xvBy0KKobZsrlIvDYmPBppw9jMUiZAJDL1U4c="
+          "Value": "sha256-rZ3//x3CSCXTOIVUznp6vdDCfsCApOIac790Y2VgBMA="
         }
       ]
     },
@@ -6665,7 +6665,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "50606"
+          "Value": "534009"
         },
         {
           "Name": "Content-Type",
@@ -6673,11 +6673,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gueKFYxXtTH72P6D+EpX16kfQGoOYF0CAzSCh1EFggg=\""
+          "Value": "\"9pXuQqY6DSWHsC68WQ2gTi2pVfGd03dGhz2fV/kVMrE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 04:14:53 GMT"
+          "Value": "Mon, 16 Jun 2025 04:14:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6687,12 +6687,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-gueKFYxXtTH72P6D+EpX16kfQGoOYF0CAzSCh1EFggg="
+          "Value": "sha256-9pXuQqY6DSWHsC68WQ2gTi2pVfGd03dGhz2fV/kVMrE="
         }
       ]
     },
     {
-      "Route": "Images/volkswagen-jetta.uk1exuqun9.jpg",
+      "Route": "Images/volkswagen-jetta.unrk9ax20x.jpg",
       "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\volkswagen-jetta.jpg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -6702,7 +6702,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "50606"
+          "Value": "534009"
         },
         {
           "Name": "Content-Type",
@@ -6710,11 +6710,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gueKFYxXtTH72P6D+EpX16kfQGoOYF0CAzSCh1EFggg=\""
+          "Value": "\"9pXuQqY6DSWHsC68WQ2gTi2pVfGd03dGhz2fV/kVMrE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 04:14:53 GMT"
+          "Value": "Mon, 16 Jun 2025 04:14:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6724,7 +6724,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "uk1exuqun9"
+          "Value": "unrk9ax20x"
         },
         {
           "Name": "label",
@@ -6732,12 +6732,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-gueKFYxXtTH72P6D+EpX16kfQGoOYF0CAzSCh1EFggg="
+          "Value": "sha256-9pXuQqY6DSWHsC68WQ2gTi2pVfGd03dGhz2fV/kVMrE="
         }
       ]
     },
     {
-      "Route": "Images/Volvo-car.87qrfxkzuv.jpg",
+      "Route": "Images/Volvo-car.4gh3r46hap.jpg",
       "AssetFile": "C:\\Users\\Admin\\Downloads\\SalesInformationSystem\\SalesInformationSystem\\SalesInformationSystem\\wwwroot\\Images\\Volvo-car.jpg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -6747,7 +6747,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "41915"
+          "Value": "453062"
         },
         {
           "Name": "Content-Type",
@@ -6755,11 +6755,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZFDt+bV8Ib5Z0mWpVExHDOtBxUpFe1ksWBYCAtdV4zI=\""
+          "Value": "\"FKbrTZmFonkOLOQBTAlVJxiocda3XMmpZLogOSo4sS8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 04:15:02 GMT"
+          "Value": "Mon, 16 Jun 2025 04:15:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6769,7 +6769,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "87qrfxkzuv"
+          "Value": "4gh3r46hap"
         },
         {
           "Name": "label",
@@ -6777,7 +6777,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ZFDt+bV8Ib5Z0mWpVExHDOtBxUpFe1ksWBYCAtdV4zI="
+          "Value": "sha256-FKbrTZmFonkOLOQBTAlVJxiocda3XMmpZLogOSo4sS8="
         }
       ]
     },
@@ -6792,7 +6792,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "41915"
+          "Value": "453062"
         },
         {
           "Name": "Content-Type",
@@ -6800,11 +6800,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZFDt+bV8Ib5Z0mWpVExHDOtBxUpFe1ksWBYCAtdV4zI=\""
+          "Value": "\"FKbrTZmFonkOLOQBTAlVJxiocda3XMmpZLogOSo4sS8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 04:15:02 GMT"
+          "Value": "Mon, 16 Jun 2025 04:15:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6814,7 +6814,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZFDt+bV8Ib5Z0mWpVExHDOtBxUpFe1ksWBYCAtdV4zI="
+          "Value": "sha256-FKbrTZmFonkOLOQBTAlVJxiocda3XMmpZLogOSo4sS8="
         }
       ]
     },
